@@ -1,0 +1,11 @@
+{
+  "version": 4,
+  "name": "Gift_Hunter_Pro",
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "/api/index"
+    }
+  ],
+  "trailingSlash": false
+}
